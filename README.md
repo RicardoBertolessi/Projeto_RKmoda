@@ -14,20 +14,7 @@ Criar uma solução integrada de coleta, transformação, análise e previsão d
 
 ## Estrutura do Projeto
 
-rkmoda-pi3/
-├── etl/ # Scripts de extração e transformação de dados
-│ ├── carregar_rkmoda.py
-│ ├── etl_rkmoda.py
-│ ├── popular_rkmoda_recorrente.py
-├── carga/ # Scripts de carga de dados no banco
-│ ├── Carrega.py
-│ ├── scheduler.py
-├── analise/ # Modelos preditivos e gráficos
-│ ├── FacebookProphet.py
-├── README.md
-
-
----
+![alt text](image-1.png)
 
 ## Requisitos Atendidos
 
