@@ -1,6 +1,14 @@
 # Projeto Integrador - RK Moda (PI3) 
 
-Feito por Eduardo Cardoso, Gabrielly Silva, Jennyfer Santos, Murilo Matos e Ricardo Bertolessi. 
+
+| Nome                 | RA          |
+|----------------------|-------------|
+|Eduardo Cardoso       |2041382411017|
+|Gabrielly Silva       |2041382411023|
+|Jennyfer Santos       |2041382411041|
+|Murilo Matos          |2041382411030|
+|Ricardo Bertolessi    |2041382411031|
+
 
 Este repositório contém a implementação do Projeto Integrador do 3º semestre da Fatec Ipiranga, com foco em análise de dados e automação de processos de uma loja de moda digital chamada **RK Moda**
 
@@ -63,8 +71,10 @@ Implementamos um modelo de **classificação de receita mensal** com base nos da
 - Schedule
 - Tqdm
 - Asyncio + httpx
-
+- Grafana
 ---
+
+
 
 ## Como executar
 
