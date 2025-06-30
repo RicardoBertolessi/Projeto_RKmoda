@@ -22,7 +22,7 @@ Criar uma solução integrada de coleta, transformação, análise e previsão d
 
 ## Estrutura do Projeto
 
-![alt text](image-1.png)
+![alt text](image.png)
 
 ## Requisitos Atendidos
 
