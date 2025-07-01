@@ -94,4 +94,4 @@ Sugestões de melhoria, refatoração ou novos insights analíticos são bem-vin
 
 ## Versão
 
-**v1.0.0** – Primeira entrega completa do Projeto Integrador III.
+**v2.0.0** – Primeira entrega completa do Projeto Integrador III.
