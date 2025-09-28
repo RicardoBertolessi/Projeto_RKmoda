@@ -26,6 +26,10 @@ Criar uma solução integrada de coleta, transformação, análise e previsão d
 
 ## Requisitos Atendidos
 
+## Representação do dashboard 
+
+![!\[alt text\](image.png)](sss.jpg)
+
 ### 1. Stored Procedure com Cursor Dinâmico (PL/pgSQL)
 
 Estatística calculada: Frequência de ocorrência dos produtos mais vendidos, com base na soma da quantidade vendida.
